@@ -57,19 +57,19 @@
 <h3 align="center">Let's connect and chat! :incoming_envelope:</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/quadrified">
+  <a href="https://www.linkedin.com/in/hanan-asyrawi-308827196/">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.linkedin.com/in/quadrified">
+  <a href="https://www.linkedin.com/in/hanan-asyrawi-308827196/">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/stackoverflow.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.linkedin.com/in/quadrified">
+  <a href="https://www.linkedin.com/in/hanan-asyrawi-308827196/">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/telegram.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.linkedin.com/in/quadrified">
+  <a href="https://www.linkedin.com/in/hanan-asyrawi-308827196/">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/twitter.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.linkedin.com/in/quadrified">
+  <a href="https://www.linkedin.com/in/hanan-asyrawi-308827196/">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
 </p>
