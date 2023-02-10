@@ -66,10 +66,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ray-x/ray-x/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-<p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
+  <img src="https://raw.githubusercontent.com/hananloser/hananloser/output/github-contribution-grid-snake.svg" />
 </p>
