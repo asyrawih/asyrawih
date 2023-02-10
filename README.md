@@ -14,33 +14,6 @@
 
 <br>
 
----
-
-<h3 align="center">Development Tools</h3>
-
-
-<p align="center">
-
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_phpstorm.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="bash" style="vertical-align:top; margin:4px">
-
----
-
-<h3 align="center">Devices</h3>
-
-<p align="center">
-
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/devices/pc.svg" alt="npm" style="vertical-align:top; margin:4px">
-
----
-
-</details>
-
 **Languages and Tools:**
 <p align="center">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
